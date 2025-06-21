@@ -97,3 +97,22 @@ Accessibility for all users
 
 📌 Importance of Identifying Design Properties
 Understanding a mockup's design properties (colors, typography, spacing) ensures the product stays visually consistent across all views. It speeds up development by defining standards early and enhances accessibility and usability. It also ensures that every element aligns with the intended branding and user experience.
+
+
+# Project Roles and Responsibilities
+👥 Project Roles and Responsibilities
+This project follows a collaborative team structure, where each role plays a vital part in delivering a successful, functional, and user-friendly Airbnb clone application. Below is an overview of each team role and their primary responsibilities:
+
+| **Role**                | **Responsibilities**                                                                                                                                                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**     | - Oversees the overall project timeline and scope<br>- Coordinates cross-functional team efforts<br>- Tracks progress and manages deliverables<br>- Ensures deadlines are met and blockers are resolved                         |
+| **Frontend Developers** | - Build and style the user interface using HTML, CSS, and JavaScript (React)<br>- Integrate frontend with backend APIs<br>- Ensure mobile responsiveness and accessibility<br>- Implement reusable components                   |
+| **Backend Developers**  | - Design and develop RESTful APIs<br>- Handle database interactions and business logic<br>- Ensure proper authentication and data validation<br>- Maintain secure and scalable server-side architecture                         |
+| **Designers**           | - Create wireframes and mockups in Figma<br>- Define UI component systems (colors, typography, spacing)<br>- Ensure visual consistency across the application<br>- Validate design usability through feedback                   |
+| **QA/Testers**          | - Write and execute test cases (unit, integration, UI)<br>- Perform manual and automated testing<br>- Log and track bugs<br>- Ensure overall quality and functionality of the application                                       |
+| **DevOps Engineers**    | - Set up CI/CD pipelines for continuous deployment<br>- Configure and monitor staging and production environments<br>- Manage cloud infrastructure (e.g., AWS, Docker)<br>- Handle backups, logging, and performance monitoring |
+| **Product Owner**       | - Define and prioritize product features<br>- Create user stories and acceptance criteria<br>- Ensure that the product meets business and user needs<br>- Act as a bridge between stakeholders and developers                   |
+| **Scrum Master**        | - Facilitate daily stand-ups and sprint planning<br>- Remove impediments and keep the team focused<br>- Encourage Agile best practices<br>- Support collaboration and team morale                                               |
+
+✅ Contribution to Project Success
+Each team member’s role is critical to the overall success of the project. Clear separation of responsibilities ensures accountability, while effective collaboration enables us to deliver a polished product within the given timeline.
