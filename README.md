@@ -116,3 +116,101 @@ This project follows a collaborative team structure, where each role plays a vit
 
 ✅ Contribution to Project Success
 Each team member’s role is critical to the overall success of the project. Clear separation of responsibilities ensures accountability, while effective collaboration enables us to deliver a polished product within the given timeline.
+
+
+# UI Component Patterns
+🧩 UI Component Patterns
+To ensure modularity, scalability, and maintainability, StayEase will be built using reusable UI components. These components will follow consistent styling, layout structure, and responsiveness across the application. Below is an overview of the core components planned for the Airbnb clone.
+
+1. Navbar
+Description: A top navigation bar that allows users to access key parts of the application.
+
+Features:
+
+Logo (linked to homepage)
+
+Search bar (for location, dates, and guests)
+
+User menu (sign up/sign in, bookings, profile, logout)
+
+Responsive hamburger menu for mobile
+
+2. Property Card
+Description: A compact card component used to display individual property listings on the main page.
+
+Features:
+
+Property image
+
+Price per night
+
+Location and title
+
+Rating (stars)
+
+Favorite button (heart icon)
+
+Responsive layout for grid display
+
+3. Footer
+Description: A footer component that provides additional site navigation, company info, and legal details.
+
+Features:
+
+Navigation links (About, Contact, Careers, etc.)
+
+Company information
+
+Social media icons
+
+Copyright
+
+4. Booking Form
+Description: A user input form for selecting dates, guests, and submitting a booking request.
+
+Features:
+
+Date picker
+
+Guest selector
+
+Price breakdown
+
+Submit button with validation
+
+5. Property Detail Components
+Description: A collection of modular components for the detailed listing page.
+
+Includes:
+
+Image gallery
+
+Amenities list
+
+Host profile
+
+Review section
+
+Booking sidebar form
+
+6. Button & Input Components
+Description: Reusable elements for form actions and interaction.
+
+Types:
+
+Primary/Secondary buttons
+
+Text inputs, text areas
+
+Dropdowns and checkboxes
+
+Custom icons and badges
+
+🧠 Component Design Principles
+Reusability: Components will be designed to be used across different views with props.
+
+Responsiveness: All components will adapt to different screen sizes (mobile-first).
+
+Accessibility: Follows WCAG guidelines (semantic HTML, keyboard nav, ARIA attributes).
+
+Consistency: Follows global style guide (Figma-based colors, typography, spacing).
